@@ -1,5 +1,5 @@
 # POS101
-打造个人系统
+打造个人系统，15min 主题分享 + 45min 亲身动手实践，可选自由交流时间。
 
 「You Are What You Eat」，同样也可以说「You Are What You Love/Think/Do」。你的言行举止和内心的想法，与外部的输入输出一起构成了你自己，一个复杂的系统。
 
