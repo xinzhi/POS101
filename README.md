@@ -9,8 +9,8 @@
 
 ---
 
-客服微信：WorkdaysHQ
-联系邮箱：pos@team.tt
-线下活动：每周日 14:00 @大鱼咖啡
+客服微信：WorkdaysHQ  
+联系邮箱：pos@team.tt  
+线下活动：每周日 14:00 @大鱼咖啡  
 
-更多信息请关注微信公众号 每日工作HQ（ID：teamxtt）
+更多信息请关注微信公众号 每日工作HQ（ID：teamxtt）  
